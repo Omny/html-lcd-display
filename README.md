@@ -1,2 +1,2 @@
 # html-lcd-display
-HTML LCD Display
+Fullscrean HTML LCD Display with css animation
