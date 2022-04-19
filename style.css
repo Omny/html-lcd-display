@@ -1,0 +1,127 @@
+
+body {
+    height:100%;
+    overflow:hidden;
+  }
+  
+  .lcd {
+      position: absolute;
+      width: 90%;
+      height: 90%;
+      left: 5%;
+      top: 5%;
+      background: #ddd;
+      animation-duration: 7s;
+      animation-name: slidein;
+  }
+  
+  .cell {
+     position: absolute;
+     width: 4%;
+     height: 20%;
+  }
+
+@keyframes slidein {
+  from {
+    left: 100%;
+  } 
+
+  to {
+    left: 5%;
+  }
+}
+  
+  .on {
+    background-color: #333;
+  }
+  
+  .row1 {
+    top: 0;
+  }
+  .row2 {
+    top: 20%;
+  }
+  .row3 {
+    top: 40%;
+  }
+  .row4 {
+    top: 60%;
+  }
+  .row5 {
+    top: 80%;
+  }
+  .column1 {
+    left: 0;
+  }
+  .column2 {
+    left: 4%;
+  }
+  .column3 {
+    left: 8%;
+  }
+  .column4 {
+    left: 12%;
+  }
+  .column5 {
+    left: 16%;
+  }
+  .column6 {
+    left: 20%;
+  }
+  .column7 {
+    left: 24%;
+  }
+  .column8 {
+    left: 28%;
+  }
+  .column9 {
+    left: 32%;
+  }
+  .column10 {
+    left: 36%;
+  }
+  .column11 {
+    left: 40%;
+  }
+  .column12 {
+    left: 44%;
+  }
+  .column13 {
+    left: 48%;
+  }
+  .column14 {
+    left: 52%;
+  }
+  .column15 {
+    left: 56%;
+  }
+  .column16 {
+    left: 60%;
+  }
+  .column17 {
+    left: 64%;
+  }
+  .column18 {
+    left: 68%;
+  }
+  .column19 {
+    left: 72%;
+  }
+  .column20 {
+    left: 76%;
+  }
+  .column21 {
+    left: 80%;
+  }
+  .column22 {
+    left: 84%;
+  }
+  .column23 {
+    left: 88%;
+  }
+  .column24 {
+    left: 92%;
+  }
+  .column25 {
+    left: 96%;
+  }
